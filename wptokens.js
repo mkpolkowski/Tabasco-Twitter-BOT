@@ -1,5 +1,5 @@
 module.exports = {
-	url: "...",
-	username: "...",
-	password: "..."
+	url:		"...",
+	username:	"...",
+	password:	"..."
 }
